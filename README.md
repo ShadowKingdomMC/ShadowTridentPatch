@@ -3,7 +3,7 @@
 
 Patch Trident items with a high Riptide enchantment crash exploit on 1.13.2
 
-[Download v1.0]()
+[Download v1.0](https://github.com/ShadowKingdomMC/ShadowTridentPatch/releases/download/1.0/ShadowTridentPatch-1.0-20200912.jar)
 
 <h2 align="center"></h2>
 
