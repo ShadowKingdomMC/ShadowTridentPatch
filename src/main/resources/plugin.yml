@@ -1,0 +1,7 @@
+name: ${project.name}
+version: ${project.version}
+website: ${project.url}
+description: ${project.description}
+author: [Matthew Hogan <matt@matthogan.co.uk>]
+
+main: net.shadowkingdom.tridentpatch.SpigotPlugin
